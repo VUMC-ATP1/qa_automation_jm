@@ -4,6 +4,7 @@ import lombok.extern.log4j.Log4j;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeDriverService;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -18,7 +19,7 @@ public class sauceDemoTests {
     private final String URL = "https://www.saucedemo.com/";
     @BeforeTest
     public void setProperties(){
-        //System.setProperties(ChromeDriverService.CHROME_DRIVER_SILENT_OUTPUT_PROPERTY,"true");
+        System.setProperty(ChromeDriverService.CHROME_DRIVER_SILENT_OUTPUT_PROPERTY, "true");
         Logger.getLogger("org.openqa.selenium").setLevel(Level.OFF);
     }
     @BeforeMethod(alwaysRun = true)

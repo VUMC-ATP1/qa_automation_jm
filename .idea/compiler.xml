@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="qa_automation_jm" target="1.5" />
+      <module name="qa_automation_jm" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

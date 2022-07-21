@@ -1,7 +1,14 @@
 pageObjectsHomework\CartPage.class
-pageObjectsHomework\LoginPage.class
-pageObjectsHomework\CheckoutSuccessPage.class
 pageObjectsHomework\CheckoutOverviewPage.class
 pageObjectsHomework\CheckoutPage.class
 mavenTestNGHomework\Calculator.class
 pageObjectsHomework\InventoryPage.class
+pageObjectsHomework\LoginPage.class
+pageObjectsHomework\CheckoutSuccessPage.class
+page_object\MainPage.class
+utils\WebDriverManager.class
+steps_defs\CommonStepsDefs.class
+Employee.class
+hooks\Hooks.class
+runner\TestRunner.class
+page_object\AuthorizationPage.class

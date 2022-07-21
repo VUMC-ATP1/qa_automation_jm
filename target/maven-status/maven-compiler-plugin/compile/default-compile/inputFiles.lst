@@ -1,7 +1,14 @@
 C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\pageObjectsHomework\CheckoutOverviewPage.java
-C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\pageObjectsHomework\LoginPage.java
-C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\pageObjectsHomework\CheckoutSuccessPage.java
+C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\utils\WebDriverManager.java
 C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\pageObjectsHomework\CheckoutPage.java
-C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\pageObjectsHomework\CartPage.java
+C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\steps_defs\CommonStepsDefs.java
+C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\hooks\Hooks.java
 C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\mavenTestNGHomework\Calculator.java
 C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\pageObjectsHomework\InventoryPage.java
+C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\pageObjectsHomework\LoginPage.java
+C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\pageObjectsHomework\CheckoutSuccessPage.java
+C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\pageObjectsHomework\CartPage.java
+C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\page_object\AuthorizationPage.java
+C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\Employee.java
+C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\page_object\MainPage.java
+C:\Users\janis\IdeaProjects\qa_automation_jm\src\main\java\runner\TestRunner.java

@@ -1,0 +1,31 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 34.997 s <<< FAILURE! - in TestSuite
+runner.TestRunner.runScenario["Scenario: Error login - no username", "Login feature"](4)  Time elapsed: 3.289 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at org.testng.Assert.assertTrue(Assert.java:66)
+	at steps_defs.CommonStepsDefs.checkErrorMessage(CommonStepsDefs.java:33)
+	at ✽.Then I see login error message 'Epic sadface: Username is required’(file:///C:/Users/janis/IdeaProjects/qa_automation_jm/src/test/resources/features/login.feature:18)
+
+runner.TestRunner.runScenario["Scenario: Error login - no username", "Login feature"](5)  Time elapsed: 3.029 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at org.testng.Assert.assertTrue(Assert.java:66)
+	at steps_defs.CommonStepsDefs.checkErrorMessage(CommonStepsDefs.java:33)
+	at ✽.Then I see login error message 'Epic sadface: Username is required’(file:///C:/Users/janis/IdeaProjects/qa_automation_jm/src/test/resources/features/login.feature:18)
+
+runner.TestRunner.runScenario["Scenario: Error login - no username", "Login feature"](6)  Time elapsed: 3.075 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at org.testng.Assert.assertTrue(Assert.java:66)
+	at steps_defs.CommonStepsDefs.checkErrorMessage(CommonStepsDefs.java:33)
+	at ✽.Then I see login error message 'Epic sadface: Username is required’(file:///C:/Users/janis/IdeaProjects/qa_automation_jm/src/test/resources/features/login.feature:18)
+
